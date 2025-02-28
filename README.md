@@ -1,4 +1,6 @@
 TO DO:
+- Register Librarian
+- Login as a librarian
 - Borrow Book
 - Return Book
 - Add Books
