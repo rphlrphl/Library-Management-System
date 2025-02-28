@@ -1,4 +1,4 @@
-TO DO:
+TO DO: (Mostly librarian access stuffs)
 - Register Librarian
 - Login as a librarian
 - Borrow Book
